@@ -1,1 +1,1 @@
-# QT5
+Utilização da linguagem c++ usando de conhecimentos de computação gráfica para gerar uma interface que permita a disposição de um objeto 3D .OFF e que o mesmo possa sofrer alterações de shaders, iluminação entre outros fatores.
